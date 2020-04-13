@@ -1,0 +1,22 @@
+.sider {
+  flex: 0 0 240px !important;
+  max-width: 240px !important;
+  min-width: 240px !important;
+  width: 240px !important;
+  z-index: 1000;
+}
+
+.logo {
+  height: 70px;
+  background: rgba(0,0,0,0.3);
+  margin: 0;
+  padding: 0 10px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.sideMenu {
+  padding-top: 35px;
+  padding-bottom: 35px;
+  background: transparent;
+}

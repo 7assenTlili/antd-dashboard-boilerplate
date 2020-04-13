@@ -1,0 +1,16 @@
+.layout {
+  height: 100vh;
+}
+
+.mainContent {
+  padding: 70px 0 0;
+  flex-shrink: 0;
+  background: rgb(241, 243, 246);
+  position: relative;
+}
+
+.footer {
+  background: rgb(255, 255, 255);
+  text-align: center;
+  border-top: 1px solid rgb(237, 237, 237);
+}
