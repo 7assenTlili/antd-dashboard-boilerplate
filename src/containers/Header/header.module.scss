@@ -8,7 +8,17 @@
   z-index: 1000;
 }
 
+.collapsed {
+  padding: 0 31px 0 109px;
+}
+
 .btn {
   align-items: center;
   display: inline-flex;
+}
+
+.collapsedBtn {
+  align-items: center;
+  display: inline-flex;
+  padding: 0 31px 0 109px;
 }
